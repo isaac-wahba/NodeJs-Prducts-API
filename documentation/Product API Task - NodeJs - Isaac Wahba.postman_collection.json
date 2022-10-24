@@ -31,7 +31,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:8000/api/products/635512d5011a97b48ad3b2cf",
+					"raw": "http://localhost:8000/api/products/63565b376ea3cc988a7b0f8b",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -40,7 +40,7 @@
 					"path": [
 						"api",
 						"products",
-						"635512d5011a97b48ad3b2cf"
+						"63565b376ea3cc988a7b0f8b"
 					]
 				}
 			},
@@ -116,7 +116,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:8000/api/products/635512d5011a97b48ad3b2cf",
+					"raw": "http://localhost:8000/api/products/63565b376ea3cc988a7b0f8b",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -125,7 +125,7 @@
 					"path": [
 						"api",
 						"products",
-						"635512d5011a97b48ad3b2cf"
+						"63565b376ea3cc988a7b0f8b"
 					]
 				}
 			},
@@ -146,7 +146,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:8000/api/products/635512d5011a97b48ad3b2cf",
+					"raw": "http://localhost:8000/api/products/63565b376ea3cc988a7b0f8b",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -155,7 +155,7 @@
 					"path": [
 						"api",
 						"products",
-						"635512d5011a97b48ad3b2cf"
+						"63565b376ea3cc988a7b0f8b"
 					]
 				}
 			},
