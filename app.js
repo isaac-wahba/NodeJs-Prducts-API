@@ -7,12 +7,6 @@ const app = express();
 // const db = mongoose.connect('mongodb://localhost/products');
 mongoose.connect(
   'mongodb+srv://admin1:1234@products.i9yvhi2.mongodb.net/products?retryWrites=true&w=majority'
-  // ,
-  // {
-  //   useNewUrlParser: true,
-  //   useFindAndModify: false,
-  //   useUnifiedTopology: true,
-  // }
 );
 const port = process.env.PORT || 8000;
 const Product = require('./models/productModel');
